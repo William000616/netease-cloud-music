@@ -1,0 +1,4 @@
+vsCode打开 “仿网易云文件”
+对其中的两个文件分别打开终端
+对api运行命令 node app.js
+对app运行命令 npm run serve
